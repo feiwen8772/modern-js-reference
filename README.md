@@ -3,7 +3,8 @@
 <a id="modern-javascript-cheatsheet"></a>
 
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
-<small>Image Credits: [Ahmad Awais ⚡️](https://github.com/ahmadawais)</small>
+
+<small>文档翻译自: [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)</small>
 
 ## 简介
 
